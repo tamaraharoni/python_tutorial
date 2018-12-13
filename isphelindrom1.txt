@@ -1,0 +1,10 @@
+
+
+string = input('please enter a string')
+revers = string[-1,-(len(string)-1):-1]
+isphilendrom = string ==revers
+if isphilendrom :
+	print("ok")
+else :
+	print("not")
+	

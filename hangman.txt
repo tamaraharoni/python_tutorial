@@ -1,0 +1,67 @@
+
+
+HANGMANֹ_ASCIIֹ_ART ="""   _   _                                        
+  | |  | |                        
+  | |__| | __ _ _ __   __ _ _ __ ___   __ _ _ __
+  |  __  |/ _` | `_ \ / _  | `_   _  \/ _` | `_ \\
+  | |  | | (_| | | | | (_| | | | | | | (_| | | | |
+  |_|  |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
+                       __/ |
+                      |___/  """
+
+MAX_TIES = 6
+
+  print (HANGMANֹ_ASCIIֹ_ART)
+  print ( MAX_TIES,"\n")
+guessed_letter=input("gues a letter ")
+prinr(guessed_letter)
+  
+import random
+random.randint(5,10)
+
+print ("  x-------x")
+
+
+print ("""  x-------x
+  |
+  |
+  |
+  |
+  |""")
+
+
+print ("""  x-------x
+  |       |
+  |       O
+  |        
+  |
+  |""")
+
+
+print ("""  x-------x
+  |       |
+  |       O
+  |       |
+  |
+  |""")
+
+print ("""  x-------x
+  |       |
+  |       O
+  |       |
+  |      /|\\
+  |""")
+
+print ("""  x-------x
+  |       |
+  |       O
+  |       |
+  |      /|\\
+  |      /""")
+
+print ("""  x-------x
+  |       |
+  |       O
+  |       |
+  |      /|\\
+  |      / \\""")
